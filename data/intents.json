@@ -1,0 +1,84 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hey",
+        "hello",
+        "Hi there",
+        "Hey there"
+      ],
+      "responses": [
+        "Hey there! \ud83d\udc4b How can I assist you with your health or fitness today?",
+        "Hi! Ready to talk wellness? \ud83e\udde0"
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "how are you",
+        "how are you doing"
+      ],
+      "responses": [
+        "I'm doing great and always ready to help. How about you? \ud83d\ude0a"
+      ]
+    },
+    {
+      "tag": "bot_identity",
+      "patterns": [
+        "your name",
+        "who are you",
+        "what are you"
+      ],
+      "responses": [
+        "You can call me your Health Assistant. I'm here to support your well-being. \ud83e\ude7a"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you later"
+      ],
+      "responses": [
+        "Take care and stay healthy! \ud83d\udc4b",
+        "Goodbye! Remember to hydrate! \ud83d\udca7"
+      ]
+    },
+    {
+      "tag": "bmi_calculator",
+      "patterns": [
+        "calculate my bmi",
+        "bmi calculator",
+        "what is my bmi"
+      ],
+      "responses": [
+        "I can help you calculate your BMI! Please provide your weight (in kg) and height (in cm)."
+      ]
+    },
+    {
+      "tag": "water_intake",
+      "patterns": [
+        "how much water",
+        "water intake",
+        "daily water"
+      ],
+      "responses": [
+        "I can calculate your daily water needs! Please tell me your weight in kg."
+      ]
+    },
+    {
+      "tag": "calorie_calculator",
+      "patterns": [
+        "calculate calories",
+        "daily calories",
+        "calorie needs"
+      ],
+      "responses": [
+        "I can calculate your daily calorie needs! Please provide: age, weight, height, gender, and activity level."
+      ]
+    }
+  ]
+}

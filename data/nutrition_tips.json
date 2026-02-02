@@ -1,0 +1,157 @@
+{
+  "nutrition_tips": [
+    {
+      "category": "balanced_diet",
+      "topic": "What is a balanced diet?",
+      "guidance": "A balanced diet includes: vegetables (40% of plate), fruits, whole grains, lean proteins, and healthy fats. Eat a variety of colors, limit processed foods, added sugars, and excessive salt. Stay hydrated with water."
+    },
+    {
+      "category": "macronutrients",
+      "topic": "What are macronutrients?",
+      "guidance": "Macronutrients are: Carbohydrates (45-65% of calories) - body's main energy source; Proteins (10-35%) - building blocks for muscles and tissues; Fats (20-35%) - essential for hormones and nutrient absorption. All three are necessary!"
+    },
+    {
+      "category": "protein_sources",
+      "topic": "Best protein sources",
+      "guidance": "Animal sources: chicken breast, fish (salmon, tuna), eggs, Greek yogurt, lean beef. Plant sources: lentils, chickpeas, tofu, tempeh, quinoa, edamame, nuts, seeds. Aim for 0.8-1g protein per kg body weight daily."
+    },
+    {
+      "category": "healthy_fats",
+      "topic": "Healthy fat sources",
+      "guidance": "Include: avocados, nuts (almonds, walnuts), seeds (chia, flax), olive oil, fatty fish (salmon, mackerel), nut butters. Avoid trans fats and limit saturated fats. Omega-3 fatty acids are especially beneficial for heart and brain health."
+    },
+    {
+      "category": "fiber_intake",
+      "topic": "Importance of fiber",
+      "guidance": "Fiber aids digestion, stabilizes blood sugar, lowers cholesterol, and promotes satiety. Aim for 25g (women) or 38g (men) daily. Sources: whole grains, vegetables, fruits, legumes, nuts, seeds. Increase gradually and drink plenty of water."
+    },
+    {
+      "category": "sugar_limits",
+      "topic": "How much sugar is too much?",
+      "guidance": "Limit added sugar to <10% of daily calories: 25g (6 teaspoons) for women, 36g (9 teaspoons) for men. Natural sugars in whole fruits are fine. Watch out for hidden sugars in sauces, drinks, and processed foods."
+    },
+    {
+      "category": "sodium_intake",
+      "topic": "Sodium recommendations",
+      "guidance": "Limit sodium to <2,300mg per day (1 teaspoon salt). High sodium increases blood pressure risk. Most dietary sodium comes from processed foods, not the salt shaker. Read labels and choose fresh, whole foods when possible."
+    },
+    {
+      "category": "meal_frequency",
+      "topic": "How often should I eat?",
+      "guidance": "Eat 3 balanced meals with 1-2 healthy snacks if needed. Meal frequency matters less than total daily nutrition. Some prefer 5-6 small meals, others do well with 3 larger ones. Find what helps you maintain consistent energy."
+    },
+    {
+      "category": "portion_control",
+      "topic": "Portion control tips",
+      "guidance": "Use smaller plates, measure servings initially, practice mindful eating, eat slowly, stop when 80% full. Visual guide: protein = palm size, carbs = cupped hand, fats = thumb size, vegetables = whole fist or more."
+    },
+    {
+      "category": "hydration_needs",
+      "topic": "Daily water intake",
+      "guidance": "General guideline: 8 glasses (2 liters) daily, but needs vary. Better indicator: drink when thirsty, urine should be pale yellow. Increase intake if exercising, in hot weather, or breastfeeding. Fruits and vegetables also contribute to hydration."
+    },
+    {
+      "category": "vitamin_d",
+      "topic": "Vitamin D importance",
+      "guidance": "Vitamin D supports bone health, immunity, and mood. Sources: sunlight (15-30 minutes daily), fatty fish, fortified milk, egg yolks. Many people are deficient, especially in winter. Consider supplementation (1000-2000 IU daily) if low sun exposure."
+    },
+    {
+      "category": "iron_intake",
+      "topic": "Iron needs and sources",
+      "guidance": "Iron prevents anemia and supports energy. Sources: red meat, poultry, fish, lentils, spinach, fortified cereals. Pair plant iron with vitamin C for better absorption. Women need 18mg, men 8mg daily. Don't self-supplement without testing."
+    },
+    {
+      "category": "calcium_importance",
+      "topic": "Calcium for bone health",
+      "guidance": "Adults need 1000-1200mg calcium daily for strong bones and teeth. Sources: dairy (milk, yogurt, cheese), leafy greens, fortified plant milks, canned fish with bones, tofu. Pair with vitamin D for optimal absorption."
+    },
+    {
+      "category": "meal_prep",
+      "topic": "Meal prep benefits",
+      "guidance": "Meal prep saves time, money, and helps portion control. Tips: prep on weekends, use containers, cook grains and proteins in bulk, pre-cut vegetables, prepare 3-4 days worth. Makes healthy eating convenient during busy weekdays."
+    },
+    {
+      "category": "mindful_eating",
+      "topic": "What is mindful eating?",
+      "guidance": "Mindful eating means: eating without distractions, chewing slowly (20-30 times), savoring flavors, recognizing hunger/fullness cues, and appreciating food. This improves digestion, satisfaction, and helps prevent overeating."
+    },
+    {
+      "category": "processed_foods",
+      "topic": "Why limit processed foods?",
+      "guidance": "Processed foods often contain high sodium, added sugars, unhealthy fats, and artificial additives while lacking nutrients and fiber. They're linked to obesity, heart disease, and diabetes. Choose whole, minimally processed foods most of the time."
+    },
+    {
+      "category": "organic_foods",
+      "topic": "Are organic foods better?",
+      "guidance": "Organic foods have fewer pesticides and no GMOs. Nutritionally, differences are minimal. Focus on eating more fruits and vegetables overall, whether organic or conventional. Prioritize organic for the 'Dirty Dozen' if budget allows."
+    },
+    {
+      "category": "plant_based_diet",
+      "topic": "Plant-based eating benefits",
+      "guidance": "Plant-based diets are rich in fiber, vitamins, and antioxidants. Benefits include lower disease risk, better weight management, and environmental sustainability. Ensure adequate protein, B12, iron, and omega-3s if fully plant-based."
+    },
+    {
+      "category": "alcohol_moderation",
+      "topic": "Alcohol and health",
+      "guidance": "If you drink, do so in moderation: up to 1 drink/day for women, 2 for men. Alcohol adds empty calories, can interfere with sleep, and affects judgment. It's linked to various health risks when consumed excessively."
+    },
+    {
+      "category": "caffeine_intake",
+      "topic": "Caffeine recommendations",
+      "guidance": "Moderate caffeine (up to 400mg/day, about 4 cups coffee) is safe for most adults. Benefits: improved focus and energy. Avoid after 2 PM to prevent sleep disruption. Watch out for added sugar in coffee drinks. Stay hydrated!"
+    },
+    {
+      "category": "gut_health",
+      "topic": "Supporting gut health",
+      "guidance": "Gut health affects digestion, immunity, and mood. Support it with: probiotic foods (yogurt, kefir, sauerkraut), prebiotic fiber (onions, garlic, bananas), staying hydrated, managing stress, and limiting antibiotics when possible."
+    },
+    {
+      "category": "anti_inflammatory",
+      "topic": "Anti-inflammatory foods",
+      "guidance": "These foods reduce inflammation: fatty fish (omega-3s), berries, leafy greens, turmeric, ginger, olive oil, nuts, green tea. Limit inflammatory foods: refined carbs, fried foods, processed meats, excess sugar and alcohol."
+    },
+    {
+      "category": "blood_sugar",
+      "topic": "Stabilizing blood sugar",
+      "guidance": "Prevent blood sugar spikes by: eating fiber with carbs, choosing complex carbs over simple sugars, including protein and fat in meals, eating regularly, avoiding sugary drinks, and staying active. This prevents energy crashes and cravings."
+    },
+    {
+      "category": "food_labels",
+      "topic": "Reading nutrition labels",
+      "guidance": "Check: serving size first, then calories, limit saturated fat/trans fat/sodium/added sugar, look for fiber and protein. Ingredients list: shorter is better, avoid artificial additives and partially hydrogenated oils."
+    },
+    {
+      "category": "intermittent_fasting",
+      "topic": "Intermittent fasting basics",
+      "guidance": "IF involves eating during specific windows (e.g., 16:8 - fast 16 hours, eat in 8). May aid weight loss and metabolic health for some. Not for everyone - avoid if pregnant, breastfeeding, or have history of eating disorders. Quality of food still matters!"
+    },
+    {
+      "category": "supplements",
+      "topic": "Do I need supplements?",
+      "guidance": "Most nutrients should come from food. Supplements may help if you have deficiencies, dietary restrictions, or specific needs (e.g., prenatal vitamins). Common ones: vitamin D, omega-3, B12 (vegans), iron (if anemic). Consult doctor before starting."
+    },
+    {
+      "category": "metabolism_boosting",
+      "topic": "Boosting metabolism naturally",
+      "guidance": "Increase metabolism with: eating protein with each meal, strength training to build muscle, staying hydrated, getting enough sleep, eating spicy foods, drinking green tea, avoiding extreme calorie restriction, and eating regularly."
+    },
+    {
+      "category": "emotional_eating",
+      "topic": "Managing emotional eating",
+      "guidance": "Recognize triggers (stress, boredom, sadness), find non-food coping strategies (exercise, journaling, calling a friend), practice mindful eating, keep trigger foods out of house, address underlying emotional issues, seek professional help if needed."
+    },
+    {
+      "category": "eating_out",
+      "topic": "Healthy eating at restaurants",
+      "guidance": "Tips: check menu online beforehand, choose grilled over fried, ask for dressing/sauce on side, split entrees or take half home, start with salad or vegetable soup, drink water, skip bread basket, and don't arrive overly hungry."
+    },
+    {
+      "category": "kids_nutrition",
+      "topic": "Nutrition for children",
+      "guidance": "Children need: balanced meals with all food groups, calcium and vitamin D for growth, iron-rich foods, healthy snacks, limited juice and sugary drinks. Model healthy eating, involve kids in meal prep, and make food fun without forcing or bribing."
+    }
+  ],
+  "data_sources": "Compiled from USDA Dietary Guidelines for Americans, WHO Nutrition Recommendations, American Heart Association, and Harvard School of Public Health",
+  "last_updated": "2025",
+  "disclaimer": "This information is for general educational purposes. Individual nutritional needs vary. Consult a registered dietitian or healthcare provider for personalized nutrition advice, especially if you have medical conditions or dietary restrictions."
+}

@@ -1,0 +1,131 @@
+{
+  "fitness_qa": [
+    {
+      "category": "beginner_fitness",
+      "question": "How do I start working out as a beginner?",
+      "answer": "Start with 2-3 days per week of 20-30 minute sessions. Focus on bodyweight exercises like squats, push-ups, and planks. Gradually increase intensity and duration. Most important: be consistent!"
+    },
+    {
+      "category": "exercise_frequency",
+      "question": "How often should I exercise?",
+      "answer": "Aim for at least 150 minutes of moderate aerobic activity or 75 minutes of vigorous activity per week, plus strength training 2+ days. This can be broken down into 30-minute sessions, 5 days a week."
+    },
+    {
+      "category": "weight_training",
+      "question": "Is weight training good for weight loss?",
+      "answer": "Absolutely! Weight training builds muscle, which increases your resting metabolic rate. This means you burn more calories even at rest. Combine it with cardio and proper nutrition for best results."
+    },
+    {
+      "category": "cardio_vs_strength",
+      "question": "Should I do cardio or strength training?",
+      "answer": "Both! Cardio improves heart health and burns calories. Strength training builds muscle and boosts metabolism. A balanced routine includes both - try 3 days cardio and 2-3 days strength training."
+    },
+    {
+      "category": "rest_days",
+      "question": "Do I need rest days?",
+      "answer": "Yes! Rest days are crucial for muscle recovery and growth. Aim for 1-2 complete rest days per week, or practice active recovery with light activities like walking or yoga."
+    },
+    {
+      "category": "muscle_soreness",
+      "question": "Why am I sore after working out?",
+      "answer": "Muscle soreness (DOMS - Delayed Onset Muscle Soreness) is normal after new or intense exercise. It's caused by microscopic tears in muscle fibers. It typically peaks 24-72 hours post-workout and means your muscles are adapting and getting stronger!"
+    },
+    {
+      "category": "workout_timing",
+      "question": "When is the best time to work out?",
+      "answer": "The best time is whenever you can be most consistent! Morning workouts can boost energy and metabolism. Evening workouts may benefit from peak body temperature and strength. Choose what fits your schedule and preferences."
+    },
+    {
+      "category": "pre_workout_meal",
+      "question": "What should I eat before a workout?",
+      "answer": "Eat a light meal 2-3 hours before exercise with carbs and protein (e.g., banana with peanut butter, oatmeal with berries). For workouts within 1 hour, try a small snack like a banana or apple."
+    },
+    {
+      "category": "post_workout_nutrition",
+      "question": "What should I eat after a workout?",
+      "answer": "Within 30-60 minutes post-workout, consume protein (20-25g) and carbs to aid recovery. Examples: protein shake with fruit, chicken with rice, Greek yogurt with granola. This helps repair muscles and replenish energy."
+    },
+    {
+      "category": "hydration_exercise",
+      "question": "How much water should I drink during exercise?",
+      "answer": "Drink 7-10 oz every 10-20 minutes during exercise. For workouts over 60 minutes or intense heat, consider sports drinks with electrolytes. Always hydrate before, during, and after exercise."
+    },
+    {
+      "category": "warmup",
+      "question": "Why is warming up important?",
+      "answer": "Warming up increases blood flow to muscles, raises body temperature, improves flexibility, and reduces injury risk. Spend 5-10 minutes with light cardio and dynamic stretches before your main workout."
+    },
+    {
+      "category": "cool_down",
+      "question": "Do I need to cool down after exercise?",
+      "answer": "Yes! Cooling down (5-10 minutes of light activity and stretching) helps gradually lower heart rate, prevents blood pooling, reduces muscle stiffness, and aids recovery."
+    },
+    {
+      "category": "hiit_training",
+      "question": "What is HIIT training?",
+      "answer": "HIIT (High-Intensity Interval Training) alternates short bursts of intense exercise with recovery periods. Example: 30 seconds sprint, 60 seconds walk, repeat 8-10 times. It's time-efficient and great for fat burning and cardiovascular fitness."
+    },
+    {
+      "category": "core_strength",
+      "question": "How do I strengthen my core?",
+      "answer": "Core exercises include: planks, dead bugs, bird dogs, Russian twists, and bicycle crunches. Train core 2-3 times per week. A strong core improves posture, balance, and reduces back pain."
+    },
+    {
+      "category": "flexibility_training",
+      "question": "How can I improve flexibility?",
+      "answer": "Stretch regularly (at least 2-3 times per week), hold stretches for 15-30 seconds, practice yoga or Pilates, and stretch after workouts when muscles are warm. Be patient - flexibility improvements take time!"
+    },
+    {
+      "category": "running_beginners",
+      "question": "How should I start running?",
+      "answer": "Use a walk-run program: start with 1 minute running, 2 minutes walking, repeat for 20-30 minutes. Gradually increase running intervals. Run 3 times per week with rest days in between. Invest in proper running shoes!"
+    },
+    {
+      "category": "workout_plateau",
+      "question": "I've hit a plateau in my workouts. What should I do?",
+      "answer": "Break plateaus by: changing your routine, increasing intensity or volume, trying new exercises, adjusting rest periods, checking your nutrition and sleep, or taking a deload week to recover."
+    },
+    {
+      "category": "gym_anxiety",
+      "question": "I'm nervous about going to the gym. Any tips?",
+      "answer": "Start during off-peak hours, bring a friend, hire a trainer for initial sessions, have a plan before you go, remember everyone started somewhere, wear comfortable clothes, and focus on your own progress. You've got this!"
+    },
+    {
+      "category": "home_workouts",
+      "question": "Can I get fit working out at home?",
+      "answer": "Absolutely! Bodyweight exercises, resistance bands, dumbbells, and online workout videos are all effective. No gym needed. Focus on progressive overload and consistency. Many people achieve great results training at home!"
+    },
+    {
+      "category": "exercise_weight_loss",
+      "question": "How much should I exercise to lose weight?",
+      "answer": "Combine 150-300 minutes of moderate cardio per week with strength training 2-3 times. But remember: weight loss is 80% nutrition! You can't out-exercise a bad diet. Focus on both exercise and eating in a calorie deficit."
+    },
+    {
+      "category": "muscle_building",
+      "question": "How long does it take to build muscle?",
+      "answer": "Beginners can see noticeable gains in 8-12 weeks with consistent training and proper nutrition. Muscle building is a gradual process. Focus on progressive overload, eat enough protein (1.6-2.2g per kg body weight), and be patient!"
+    },
+    {
+      "category": "overtraining",
+      "question": "What are signs of overtraining?",
+      "answer": "Signs include: persistent fatigue, decreased performance, increased injuries, insomnia, irritability, loss of appetite, and weakened immunity. If experiencing these, take extra rest days and reduce training volume."
+    },
+    {
+      "category": "age_fitness",
+      "question": "Am I too old to start exercising?",
+      "answer": "You're never too old! Exercise benefits people of all ages. Start slowly, consult your doctor if you have health concerns, focus on low-impact activities if needed, and progress gradually. Exercise improves quality of life at any age!"
+    },
+    {
+      "category": "form_technique",
+      "question": "How important is proper form?",
+      "answer": "Extremely important! Proper form prevents injuries, ensures you're targeting the right muscles, and maximizes results. Start with lighter weights to master form, use mirrors, record yourself, or work with a trainer."
+    },
+    {
+      "category": "sports_specific",
+      "question": "Should I train specifically for my sport?",
+      "answer": "Yes! Sport-specific training improves performance. Include movements that mimic your sport, work on relevant muscle groups and energy systems, but also maintain overall fitness and address weak points to prevent imbalances."
+    }
+  ],
+  "data_source": "Compiled from CDC, WHO, American College of Sports Medicine (ACSM), and National Academy of Sports Medicine (NASM) public guidelines",
+  "disclaimer": "This information is for educational purposes only. Consult with a fitness professional or healthcare provider before starting any new exercise program, especially if you have health concerns or injuries."
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Assistant - Chat</title>
+    <link rel="icon" href="{{ url_for('static', filename='img/logo1.png') }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="chat-header">
+        <div class="header-left">
+            <img src="{{ url_for('static', filename='img/logo1.png.svg') }}" alt="Health Bot" class="bot-icon">
+            <div>
+                <h1>Health Assistant</h1>
+                <span class="status">Online</span>
+            </div>
+        </div>
+        <div class="header-right">
+            <span class="username">👤 {{ username }}</span>
+            <a href="{{ url_for('help_page') }}" class="btn btn-help">Help</a>
+            <a href="{{ url_for('logout') }}" class="btn btn-logout">Logout</a>
+        </div>
+    </header>
+
+    <!-- Chat Container -->
+    <div class="chat-container" id="chatBox">
+        <div class="welcome-message">
+            <h2>Welcome to Your Health Assistant! 🩺</h2>
+            <p>I'm your AI-powered health companion. I can help you with:</p>
+            <ul>
+                <li><strong>Disease Information</strong> - Learn about 300+ medical conditions</li>
+                <li><strong>Nutrition Facts</strong> - Get detailed nutritional information for any food</li>
+                <li><strong>Exercise Suggestions</strong> - Personalized workout recommendations</li>
+                <li><strong>Health Calculators</strong> - BMI, water intake, and daily calorie needs</li>
+                <li><strong>Mental Health Support</strong> - Resources and coping strategies</li>
+                <li><strong>Fitness & Wellness</strong> - Tips for a healthier lifestyle</li>
+            </ul>
+            <p><strong>Try asking:</strong></p>
+            <ul>
+                <li>"Tell me about diabetes"</li>
+                <li>"Calories in apple"</li>
+                <li>"Exercises for chest"</li>
+                <li>"My weight is 70 kg and height is 175 cm" (for BMI)</li>
+                <li>"How much water should I drink?"</li>
+                <li>"Motivate me"</li>
+            </ul>
+            <div class="disclaimer">
+                <strong>⚠️ Important Disclaimer:</strong> This chatbot provides general health information for educational purposes only. It is NOT a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
+            </div>
+        </div>
+    </div>
+
+    <!-- Input Area -->
+    <div class="input-area">
+        <form id="chatForm" class="input-form">
+            <input 
+                type="text" 
+                id="user-input" 
+                placeholder="Type your message... (Shift+Enter for new line)" 
+                autocomplete="off"
+                required
+            />
+            <button type="submit" id="send-btn">Send</button>
+        </form>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>
