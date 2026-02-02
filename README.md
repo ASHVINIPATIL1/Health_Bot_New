@@ -256,14 +256,13 @@ This is a learning project. Feel free to:
 MIT License - Free for educational and personal use.
 
 ## 👨‍💻 Author
+**Ashvini Dagdu Patil**
 
-Built as an internship/learning project showcasing:
+This project was initially built as an academic learning exercise and represents a significantly enhanced version of the [original Health_Bot](https://github.com/ASHVINIPATIL1/Health_Bot). It showcases expertise in:
 - Full-stack development
 - API integration
 - Authentication systems
 - Database management
 - Modern UI/UX design
-
----
 
 **Made with ❤️ for learning and helping others stay healthy!**
